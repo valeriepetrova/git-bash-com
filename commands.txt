@@ -1,0 +1,18 @@
+просмотреть где я-pwd;
+создать папку-mkdir foldername;
+зайти в папку- cd foldername;
+создать 3 папки- mkdir name name name;
+создать 5 файлов- touch 1.txt 2.json;
+список содержимого- ls
+открыть любой txt файл- cat 1.txt или cat /etc/1.txt
+написать текст nano;
+сохранить и выйти ^X ИЛИ Ctrl+X Enter
+выйти из папки на уровень выше cd -
+переместить любые 2 файла в другую папку mv 1.txt desk or mv 1.txt desk/2.txt
+найти файл по имени find -name "name"
+содержимое в реальном времени grep
+вывести 3 первые строки файла head -3.txt
+последние 3 строки tail-5 1.txt
+содержимое длинного файла less [paramets] 1.txt
+дата и время date или timedatectl
+
